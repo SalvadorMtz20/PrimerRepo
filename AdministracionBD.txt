@@ -1,0 +1,32 @@
+	¿Que es un BD?
+Una base de datos es un sistema formado por un conjunto de datos almacenados en discos que permiten el acceso
+directo a ellos.
+
+	Conceptos basicos de BD:
+>ENTIDAD: 
+	Es una cosa u objeto del mundo real.
+>RELACIÓN:
+	Es una asociacion entre diferentes entidades.
+>TABLA:
+	Es donde se guardan los datos recogidos por un programa.
+>REGISTRO:
+	Tambien llamado fila o tupla, reprecenta un objeto unico de datos implicitamente estructuradosen
+	una tabla.
+>CAMPO: 
+	Ess un espacio de almacenamiento para un dato en particular.
+>DATO:
+	Son reprecentaciones simblicas como numericas, alfanumericas, algoritmicas, de un determinado
+	atributo o variable.
+>SQL: (Srtuctured Query Language)
+     En español Lenguaje de Consulta Estructuradas, es un lenguaje utilzado en programacion, 
+     diseñado para administrar y recuperar informacion de SGBD.
+>DML: (Data Manipulation Language)
+     En esañol Lenguaje de Manipulación de Datos, es un lenguaje que lleva a cabo las tareas de consulta
+     o manipulacion de datos, organizados por el modelo de datos adecuado.
+>DDL: (Data Definition Languaje)
+     Un Lenguaje de Definicion de Datos, permite  llevar a cabo las tareas de definición de las estructuras
+     que almacenarán los datos así como de los procedimientos o funciones que permitan consultarlos.
+	
+	¿En que consiste la administracion de base de datos?
+Maneja todas las solicitudes de acceso a la base de datos ya sea para agregar y eliminar archivos, recuperrar
+y almacenar datos desde y en dicho archivo.
